@@ -3,6 +3,7 @@ Author Shivam Rawat
 Developer Python 
 """
 #Strings in python...
+# String are immutable
 
 name ="Shivam Rawat"
 friend ="Nikita Rawat"

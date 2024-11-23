@@ -29,6 +29,8 @@ else:
     print("No")    
 
 
+
+# Slicing in list :list[Strt(include):end(exclude):jumpIndex]
 print(list1)
 print(list1[1:-1])
 
