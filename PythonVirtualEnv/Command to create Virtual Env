@@ -1,0 +1,16 @@
+python -m venv Env_name 
+Activate====> Env_name           \scripts\activate
+pip freeze > requirements.txt
+create Readme.md
+
+Deactivate==>deactivate
+
+once you install all the pacakages type this command this will create a requirement.txt file in which all the python install pacakges will be written with version 
+pip install openpyxl
+
+
+
+to install all the packages in this req.txt
+pip install -r requirement.txt
+
+
